@@ -1,0 +1,77 @@
+                                        * {
+                                            margin: 0;
+                                            padding: 0;
+                                            box-sizing: border-box;
+                                        }
+                                        
+                                        .a {
+                                            padding: 0%;
+                                            height: 100%;
+                                            background-color: blueviolet;
+                                            border-style: dotted;
+                                            border-color: blue;
+                                            display: none;
+                                        }
+                                        
+                                        .b {
+                                            padding: 0%;
+                                            height: 100%;
+                                            background-color: rgba(43, 122, 226, 0.514);
+                                            border-style: dotted;
+                                            border-color: blue;
+                                            display: inline;
+                                        }
+                                        
+                                        .c {
+                                            padding: 0%;
+                                            height: 100%;
+                                            background-color: rgba(202, 56, 141, 0.733);
+                                            border-style: dotted;
+                                            border-color: blue;
+                                            display: inline-block
+                                        }
+                                        
+                                        .d {
+                                            padding: 0%;
+                                            height: 100%;
+                                            background-color: rgba(42, 204, 209, 0.863);
+                                            border-style: dotted;
+                                            border-color: blue;
+                                            display: block;
+                                        }
+                                        
+                                        .subtitulo {
+                                            padding: 0%;
+                                            height: 100%;
+                                            background-color: rgb(146, 207, 75);
+                                            border-style: dotted;
+                                            border-color: blue;
+                                            display: block;
+                                        }
+                                        
+                                        p {
+                                            margin-top: 100px;
+                                            margin bottom: 100px;
+                                            margin-right: 150px;
+                                            margin-left: 80px;
+                                            padding-right: 24px;
+                                            border-style: dotted dashed solid double;
+                                        }
+                                        
+                                        .number {
+                                            padding: 0%;
+                                            height: 100%;
+                                            background-color: rgb(146, 207, 75);
+                                            border-style: dotted;
+                                            border-color: blue;
+                                            display: block;
+                                        }
+                                        
+                                        h3 {
+                                            margin-top: 100px;
+                                            margin bottom: 100px;
+                                            margin-right: 150px;
+                                            margin-left: 80px;
+                                            padding-right: 24px;
+                                            border-style: dotted dashed solid double;
+                                        }
